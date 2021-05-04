@@ -1,0 +1,1 @@
+To avoid complexity, I have split the diagram into 6 (one for each semester)
